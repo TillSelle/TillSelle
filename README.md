@@ -1,6 +1,6 @@
 <p align="center"><img align="center" src="https://i.ibb.co/12hKNzw/Xanax-Tower-Mixed2.jpg" width="250" height="250"/></p>
 <h1 align="center">Hi, I'm Till Selle</h1>
-<h3 align="center">A 17 y/o dev from Germany looking for an employer/instructor.</h3>
+<h3 align="center">A 17 y/o dev from Germany looking for an employer/instructor. The profile picture was AI generated.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tillselle&label=Profile%20views&color=0e75b6&style=flat" alt="tillselle" /> </p>
 
