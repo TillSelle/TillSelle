@@ -1,5 +1,5 @@
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&redirect=true)
+
 <h1 align="center">Hi, I'm Till Selle</h1>
 <h3 align="center">A 17 y/o dev from Germany looking for an employer/instructor. The profile picture was AI generated.</h3>
 
@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tillselle&show_icons=true&locale=en" alt="tillselle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tillselle&" alt="tillselle" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&redirect=true)
