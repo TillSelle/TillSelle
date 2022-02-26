@@ -1,4 +1,6 @@
-<p align="center"><img align="center" src="https://i.ibb.co/12hKNzw/Xanax-Tower-Mixed2.jpg" width="250" height="250"/></p>
+<p align="center">
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=0br7rantiexc24j7xrz0uydk8&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
+</p>
 <h1 align="center">Hi, I'm Till Selle</h1>
 <h3 align="center">A 17 y/o dev from Germany looking for an employer/instructor. The profile picture was AI generated.</h3>
 
