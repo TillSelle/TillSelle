@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="https://i.ibb.co/12hKNzw/Xanax-Tower-Mixed2.jpg" width="200px" height="200px">
+</p>
 <h1 align="center">Hi, I'm Till Selle</h1>
 <h3 align="center">A 17 y/o dev from Germany looking for an employer/instructor. The profile picture was AI generated.</h3>
 
