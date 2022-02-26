@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/TillSelle"><img src="https://github.com/tillselle/tillselle/blob/master/devcard.svg" width="400" alt="Till Selle's Dev Card"/></a>
+<a href="https://app.daily.dev/TillSelle"><img src="https://github.com/TillSelle/TillSelle/blob/main/devcard.svg" width="400" alt="Till Selle's Dev Card"/></a>
 <!--
 **TillSelle/TillSelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
