@@ -29,6 +29,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tillselle&theme=monokai" alt="tillselle" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://wakatime.com/badge/user/0fef0b8c-7ca7-4ca7-a5aa-c9d12a066200/project/194cbe74-fedb-444c-b80a-a59ee0204f5d.svg?style=for-the-badge" alt="tillselle" />
+</p>
+
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
